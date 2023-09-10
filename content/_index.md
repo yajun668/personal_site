@@ -6,47 +6,33 @@ sections:
     title: Biography
     username: admin
   id: about
-- block: features
-  content:
-    items:
-    - description: 90%
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 100%
-      icon: chart-line
-      icon_pack: fas
-      name: Statistics
-    - description: 10%
-      icon: camera-retro
-      icon_pack: fas
-      name: Photography
-    title: Skills
+  
 - block: experience
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
-      company_url: ""
+    - company: Jacksonville State University, 
+      company_logo: jsu
+      company_url: "https://www.jsu.edu/"
       date_end: ""
-      date_start: "2021-01-01"
-      description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_start: "2021-08-02"
+      location: Jacksonville, AL, USA
+      title: Assistant Professor of Analytics & Operations Management
+    - company: Bucknell University
+      company_logo: bucknell
+      company_url: "https://www.bucknell.edu/"
+      date_end: "2021-05-31"
+      date_start: "2019-08-01"
+      location: Lewisburg, PA, USA
+      title: Visiting Assistant Professor of Business Analytics
+    - company: Huawei Technologies Co., Ltd.
+      company_logo: huawei
+      company_url: "https://www.huawei.com/en"
+      date_end: "2014-07-15"
+      date_start: "2011-03-11"
+      description: Job Duty -- Optimization and Simulation, Data Analytics, Supply Chain Management, Lean Manufacturing
+      location: Shenzhen, China
+      title: Industrial Engineer
     title: Experience
   design:
     columns: "2"
