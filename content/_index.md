@@ -1,5 +1,9 @@
 ---
-date: "2022-10-24"
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
+type: landing
+
 sections:
 - block: about.biography
   content:
@@ -9,7 +13,14 @@ sections:
   
 - block: experience
   content:
+    # Date format for experience
+    # Refer to https://wowchemy.com/docs/customization/#date-format
     date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
     items:
     - company: Jacksonville State University, 
       company_logo: jsu
@@ -36,40 +47,11 @@ sections:
     title: Experience
   design:
     columns: "2"
-- block: accomplishments
-  content:
-    date_format: Jan 2006
-    items:
-    - certificate_url: https://www.coursera.org
-      date_end: ""
-      date_start: "2021-01-25"
-      description: ""
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
-      url: ""
-    - certificate_url: https://www.edx.org
-      date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
-      url: ""
-    subtitle: null
-    title: Accomplish&shy;ments
-  design:
-    columns: "2"
+
+  
 - block: collection
   content:
+    # Choose how many pages you would like to display (0 = all pages)
     count: 5
     filters:
       author: ""
@@ -78,69 +60,58 @@ sections:
       exclude_future: false
       exclude_past: false
       folders:
-      - post
+      - posts
       publication_type: ""
       tag: ""
     offset: 0
     order: desc
     subtitle: ""
     text: ""
-    title: Recent Posts
+    title: Posts
   design:
     columns: "2"
     view: compact
   id: posts
+
 - block: portfolio
   content:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Jacksonville State University
+      tag: JSU
+    - name: Bucknell University
+      tag: Bucknell
+    - name: Oklahoma State University
+      tag: OSU
     default_button_index: 0
     filters:
       folders:
       - project
-    title: Projects
+    title: Teaching
   design:
     columns: "1"
     flip_alt_rows: false
     view: showcase
   id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
+  
+  
 - block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: "2"
-    view: card
-  id: featured
-- block: collection
+  id: publication
   content:
     filters:
       exclude_featured: true
       folders:
       - publication
     text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
+      [See all publications](./publication/).
     title: Recent Publications
   design:
     columns: "2"
     view: citation
+    
+    
+    
 - block: collection
   content:
     filters:
@@ -202,3 +173,4 @@ sections:
 title: null
 type: landing
 ---
+
