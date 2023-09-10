@@ -21,14 +21,14 @@ publishDate: "2015-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*On the Move to Meaningful Internet Systems: OTM 2015 Workshops*"
+publication: "*In: Ciuciu, I., et al. On the Move to Meaningful Internet Systems: OTM 2015 Workshops. OTM 2015. Lecture Notes in Computer Science, vol 9416. Springer*"
 
 
 # links:
 # - name: ""
 #   url: ""
 
-url_pdf: publication/2016-2020/OTM-2015/OTM-2015.pdf
+url_pdf: https://www.researchgate.net/profile/Joe-Cecil/publication/300142264_An_Internet_of_Things_IoT_Based_Cyber_Physical_Framework_for_Advanced_Manufacturing/links/600e3872a6fdccdcb87abc11/An-Internet-of-Things-IoT-Based-Cyber-Physical-Framework-for-Advanced-Manufacturing.pdf
 url_slides:
 url_code: 
 url_dataset: ''

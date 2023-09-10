@@ -1,34 +1,33 @@
 ---
-title: "The creation of collaborative cyber physical environments for micro assembly"
+title: "Plate cutting NC machining Simulation system based on OpenGL"
 abstract: 
 
 author_notes:
 
 authors:
+- Qingjiang Han
 - admin
-- J. Cecil
-- Zak Zafar
-date: "2016-03-01T00:00:00Z"
-doi: "https://doi.org/10.1115/IMECE2015-53154"
+- and Yunqing Rao
+date: "2010-11-01T00:00:00Z"
+doi: "10.3969/j.issn.1009-0134.2010.11.19"
 featured: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-03-01T00:00:00Z"
+publishDate: "2010-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the ASME 2015 International Mechanical Engineering Congress and Exposition*"
+publication: "*Manufacturing Automation, 32*(11):57–61"
 
 
 # links:
 # - name: ""
 #   url: ""
-
 url_pdf: 
 url_slides:
 url_code: 
