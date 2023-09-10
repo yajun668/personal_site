@@ -1,25 +1,26 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests are in Network Optimization, Graph-based Data Mining, Data Analytics of Complex Networks with applications in Healthcare, and Social Network Analysis.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD, Industrial Engineering & Management
+    institution: Oklahoma State University
+    year: 2019
+  - course: M.S., Industrial Engineering
+    institution: Huazhong University of Science and Technology
+    year: 2011
+  - course: B.S., Industrial Engineering
+    institution: Zhongyuan University of Technology
     year: 2008
-email: ""
-first_name: Alice
+email: "ylu@jsu.edu"
+first_name: Yajun
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Network Optimization
+- Graph-based Data Mining
+- Business Analytics
+- Healthcare Analytics & Operations
+- Social Network Analysis
+last_name: Lu
 organizations:
 - name: Jacksonville State University
   url: https://www.jsu.edu/
@@ -52,7 +53,7 @@ superuser: true
 title: Yajun Lu
 ---
 
-I am currently an Assistant Professor of Analytics & Operations Management in the Department of Management & Marketing at Jacksonville State University (my official website is here). My research interests are in Network Optimization, Graph-based Data Mining, Data Analytics of Complex Networks with applications in Healthcare, and Social Network Analysis. 
+I am currently an Assistant Professor of Analytics & Operations Management in the Department of Management & Marketing at [Jacksonville State University](https://www.jsu.edu/) (my official website is [here](https://www.jsu.edu/business/mm/faculty/yajun-lu.html)). My research interests are in Network Optimization, Graph-based Data Mining, Data Analytics of Complex Networks with applications in Healthcare, and Social Network Analysis. 
 
 My work has been published in INFORMS Journal on Computing, Decision Support Systems, International Journal of Logistics Management, Optimization Letters, International Journal of Advanced Manufacturing Technology, among others. I received my Ph.D. in Industrial Engineering & Management from Oklahoma State University under the guidance of Dr. Baski Balasundaram. Prior to joining JSU, I was a Visiting Assistant Professor of Business Analytics in the Department of Analytics and Operations Management at Bucknell University. Besides my academic positions, I worked as an Industrial Engineer at Huawei Technologies Co., Ltd., China from March 2011 to July 2014.
 {style="text-align: justify;"}
