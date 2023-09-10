@@ -31,8 +31,8 @@ publication: "*NFORMS Journal on Computing, 34*(6):3181-3199"
 # - name: ""
 #   url: ""
 
-url_pdf: /publication/fault-tolerant-2022/On-fault-tolerant-low-diameter-clusters-in-graphs.pdf
-url_slides: /publication/fault-tolerant-2022/Fault-tolerant-low-diameter-clusters_Lu.pdf
+url_pdf: /publication/2021-2025/fault-tolerant-2022/On-fault-tolerant-low-diameter-clusters-in-graphs.pdf
+url_slides: /publication/2021-2025/fault-tolerant-2022/Fault-tolerant-low-diameter-clusters_Lu.pdf
 url_code: https://github.com/yajun668/FaultTolerantClubs
 url_dataset: ''
 url_poster: ''

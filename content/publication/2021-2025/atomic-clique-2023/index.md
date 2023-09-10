@@ -30,7 +30,7 @@ publication: "*Optimization Letters, 17*(4):813–828"
 #   url: ""
 
 url_pdf: https://link.springer.com/epdf/10.1007/s11590-023-01975-0?sharing_token=AbyhsjtjzfnqRDPwjfzJave4RwlQNchNByi7wbcMAY7bUCUgmWAPuwB4toh6FtPtnlLI76i-97z1hLrghpgw4FywCAFGMa-2NiBCcW71qU1vQxsiSqheON7uBkrGWkSbTTmRiVLRDr3OG40PvDSjGUYN-yM39nHayySU8kCtsVc%3D
-url_slides: /publication/atomic-clique-2023/PANOPTIC_UFL_Lu.pdf
+url_slides: /publication/2021-2025/atomic-clique-2023/PANOPTIC_UFL_Lu.pdf
 url_code: https://github.com/yajun668/AtomicCliques
 url_dataset: https://doi.org/10.17632/sj2jzztv4z.1
 url_poster: ''
