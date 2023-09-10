@@ -103,8 +103,6 @@ sections:
       exclude_featured: true
       folders:
       - publication
-    text: |-
-      [See all publications](./publication/).
     title: Recent Publications
   design:
     columns: "2"

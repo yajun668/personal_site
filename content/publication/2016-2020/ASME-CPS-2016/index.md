@@ -1,31 +1,35 @@
 ---
-title: Shipment sizing for autonomous trucks of road freight
+title: "The creation of collaborative cyber physical environments for micro assembly"
 abstract: 
+
+author_notes:
+
 authors:
-- Chun-Miin (Jimmy) Chen
 - admin
-date: "2021-04-01T00:00:00Z"
-doi: "https://doi.org/10.1108/IJLM-01-2020-0052"
+- J. Cecil
+- Zak Zafar
+date: "2016-03-01T00:00:00Z"
+doi: "https://doi.org/10.1115/IMECE2015-53154"
 featured: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-01T00:00:00Z"
+publishDate: "2016-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Logistics Management, 32*(2):413–433"
+publication: "*ASME International Mechanical Engineering Congress and Exposition*"
 
 
 # links:
 # - name: ""
 #   url: ""
 
-url_pdf: https://link.springer.com/epdf/10.1007/s11590-018-1273-7?sharing_token=1cJDn3pYjscDsVnR_GlKMPe4RwlQNchNByi7wbcMAY6ATPgW6c1vzSH9VRAI8beTYIjjH7ChjkQn4NCVFE0i6v3xRCZxvzcJXuVxYmif-3eySrALOwb1sWxHs5wSx_E_hgY0LlmsfRuuuTk_FAWHVQEsOcHc0KVQFpJLdsP0ayI%3D
+url_pdf: 
 url_slides:
 url_code: 
 url_dataset: ''

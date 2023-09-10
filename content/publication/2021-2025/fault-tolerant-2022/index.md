@@ -24,7 +24,7 @@ publishDate: "2023-05-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*NFORMS Journal on Computing, 34*(6):3181-3199"
+publication: "*INFORMS Journal on Computing, 34*(6):3181-3199"
 
 
 # links:
