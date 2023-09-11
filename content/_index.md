@@ -148,7 +148,7 @@ sections:
       country_code: US
       postcode: "36265"
       region: AL
-      street: 287 Merrill Hall, 700 Pelham Road North
+      street: 287 Merrill Hall, Jacksonville State University
     email: ylu[at]jsu.edu
     # Coordinates to display a map - set your map provider in `params.yaml`
     # coordinates:

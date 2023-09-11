@@ -17,7 +17,7 @@ tags:
 
 ### Recent News
 
-
+- [April 25, 2023] Two teams representing JSU from my CBA 390: Operations Management class achieved remarkable success at the [19th annual MIT Sloan Operations Simulation Competition](https://sloangroups.mit.edu/operationsmanagement/opssimcom-2023/). They secured the sixth and thirteenth positions, earning recognition in [JSU's news coverage](https://www.jsu.edu/news/articles/2023/06/business-students-place-sixth-in-global-competition--.html).
 - [March 2023] I gave a talk entitled “On Atomic Cliques in Temporal Graphs” at Workshop: PANOPTIC View On Global Optimization at the University of Florida ([slides](/publication/2021-2025/atomic-clique-2023/PANOPTIC_UFL_Lu.pdf)).
 
 - [October 2022] I gave a talk entitled “An Enhanced Automatic Risk Score Generator for Health Condition Prediction” at INFORMS 2022 Annual Meeting in Indianapolis, Indiana.
