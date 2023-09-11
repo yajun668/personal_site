@@ -25,7 +25,7 @@ publication: "*International Journal of Logistics Management, 32*(2):413–433"
 # - name: ""
 #   url: ""
 
-url_pdf: https://link.springer.com/epdf/10.1007/s11590-018-1273-7?sharing_token=1cJDn3pYjscDsVnR_GlKMPe4RwlQNchNByi7wbcMAY6ATPgW6c1vzSH9VRAI8beTYIjjH7ChjkQn4NCVFE0i6v3xRCZxvzcJXuVxYmif-3eySrALOwb1sWxHs5wSx_E_hgY0LlmsfRuuuTk_FAWHVQEsOcHc0KVQFpJLdsP0ayI%3D
+url_pdf: 'https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=2788&context=fac_journ'
 url_slides:
 url_code: 
 url_dataset: ''
