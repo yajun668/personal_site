@@ -3,15 +3,11 @@ authors:
 - admin
 categories:
 - News
-date: "2020-11-10T00:00:00Z"
-draft: false
-featured: false
-projects: []
-title: News Archives
-summary: "[November 22, 2020] I gave a talk titled “Detecting Comorbidity Progression Using Temporal Disease Networks: A Case Study on Clostridioides Difficile” at DSI 2020 Annual Conference, November 21-23, 2020."
+date: "2023-09-10T00:00:00Z"
+title: More News
 
 tags:
-- news
+- News
 ---
 
 - [November 22, 2020] I gave a talk titled “Detecting Comorbidity Progression Using Temporal Disease Networks: A Case Study on Clostridioides Difficile” at DSI 2020 Annual Conference, November 21-23, 2020.

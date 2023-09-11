@@ -90,29 +90,29 @@ sections:
     flip_alt_rows: false
   id: teaching
   
-- block: collection
-  content:
-    # Choose how many pages you would like to display (0 = all pages)
-    count: 3
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - news
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: News
-  design:
-    columns: "2"
-    view: compact
-  id: news
+# - block: collection
+#   content:
+#     # Choose how many pages you would like to display (0 = all pages)
+#     count: 3
+#     filters:
+#       author: ""
+#       category: ""
+#       exclude_featured: false
+#       exclude_future: false
+#       exclude_past: false
+#       folders:
+#       - news
+#       publication_type: ""
+#       tag: ""
+#     offset: 0
+#     order: desc
+#     subtitle: ""
+#     text: ""
+#     title: News
+#   design:
+#     columns: "2"
+#     view: compact
+#   id: news
 
 # - block: collection
 #   content:
@@ -152,8 +152,8 @@ sections:
     email: ylu[at]jsu.edu
     # Coordinates to display a map - set your map provider in `params.yaml`
     coordinates:
-      latitude: '37.4275'
-      longitude: '-122.1697'
+      latitude: '33.8286517'
+      longitude: '-85.7656348'
   design:
     columns: "2"
   id: contact
