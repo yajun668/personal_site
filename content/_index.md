@@ -138,6 +138,7 @@ sections:
 
 - block: contact
   content:
+    title: Contact
     phone: (256) 782-5398
     address:
       city: Jacksonville
@@ -147,7 +148,10 @@ sections:
       region: AL
       street: 287 Merrill Hall, 700 Pelham Road North
     email: ylu[at]jsu.edu
-    title: Contact
+    # Coordinates to display a map - set your map provider in `params.yaml`
+    coordinates:
+      latitude: '37.4275'
+      longitude: '-122.1697'
   design:
     columns: "2"
   id: contact

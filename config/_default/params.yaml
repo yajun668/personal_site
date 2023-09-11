@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Yajun Lu. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -96,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'Google'
     api_key: ''
     zoom: 15
 
