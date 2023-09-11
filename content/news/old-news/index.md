@@ -8,7 +8,7 @@ draft: false
 featured: false
 projects: []
 title: News Archives
-summary: ""
+summary: "[November 22, 2020] I gave a talk titled “Detecting Comorbidity Progression Using Temporal Disease Networks: A Case Study on Clostridioides Difficile” at DSI 2020 Annual Conference, November 21-23, 2020."
 
 tags:
 - news
