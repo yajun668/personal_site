@@ -53,6 +53,8 @@ sections:
 - block: collection
   id: publication
   content:
+  # Choose how many pages you would like to display (0 = all pages)
+    count: 4
     filters:
       exclude_featured: true
       folders:

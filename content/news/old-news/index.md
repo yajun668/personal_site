@@ -20,3 +20,8 @@ tags:
 - [October 20-21, 2020] I gave a talk titled “On finding fault-tolerant low-diameter clusters in graphs” at the INFORMS Telecommunications and Network Analytics (TNA) Conference 2020, October 20-21, 2020.
 - [August 24, 2020] A paper titled “Detecting Comorbidity Progression Using Temporal Disease Networks: A Case Study on Clostridioides Difficile” (joint work with Suhao Chen, Zhuqi Miao, Dursun Delen, and Andrew Gin) was submitted.
 - [July 29, 2020] The major revision of the paper titled “Shipment Sizing for Autonomous Trucks of Road Freight” (joint work with Chun-Miin (Jimmy) Chen) was submitted.
+- [November 23, 2019] I gave a talk entitled Formulation and Solution of Master Production Planning in Large Scale Private Label Manufacturing at DSI 2019 Annual Conference in New Orleans, LA.
+- [October 21, 2019] I gave a talk entitled Fault-tolerant s-clubs at INFORMS 2019 Annual Meeting in Seattle, WA.
+[October 5, 2019] My team members and I won the Second Place Prize ($3000) at the Hacking Health Competition, Geisinger Medical Center.
+- [July 11, 2019] I successfully defended his dissertation titled “Finding second-order clubs” (Dissertation link).
+- [April 26, 2019] I will join the Department of Analytics and Operations Management at Bucknell University as a visiting assistant professor this Fall.
