@@ -88,11 +88,10 @@ sections:
     flip_alt_rows: false
   id: teaching
   
-
 - block: collection
   content:
     # Choose how many pages you would like to display (0 = all pages)
-    count: 5
+    count: 3
     filters:
       author: ""
       category: ""
@@ -100,19 +99,43 @@ sections:
       exclude_future: false
       exclude_past: false
       folders:
-      - posts
+      - news
       publication_type: ""
       tag: ""
     offset: 0
     order: desc
     subtitle: ""
     text: ""
-    title: Posts
+    title: News
   design:
     columns: "2"
     view: compact
-  id: posts
-    
+  id: news
+
+# - block: collection
+#   content:
+#     # Choose how many pages you would like to display (0 = all pages)
+#     count: 5
+#     filters:
+#       author: ""
+#       category: ""
+#       exclude_featured: false
+#       exclude_future: false
+#       exclude_past: false
+#       folders:
+#       - posts
+#       publication_type: ""
+#       tag: ""
+#     offset: 0
+#     order: desc
+#     subtitle: ""
+#     text: ""
+#     title: Posts
+#   design:
+#     columns: "2"
+#     view: compact
+#   id: posts
+
 - block: contact
   content:
     phone: (256) 782-5398
