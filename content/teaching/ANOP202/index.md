@@ -1,5 +1,5 @@
 ---
-date: "2023-08-10T00:00:00Z"
+date: "2019-08-10T00:00:00Z"
 title: "ANOP 202: Operations Management"
 external_link: ""
 summary: Spring 2020/2021 and Fall 2019/2010
