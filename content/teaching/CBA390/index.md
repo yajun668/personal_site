@@ -13,4 +13,14 @@ url_video: ""
 ---
 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+### Course Description:
+
+Companies worldwide have been restructuring in response to growing competition on a global basis.  The world of business is increasingly recognizing the strategic importance of the production and service functions as sources of major competitive strength.  In this course, we will introduce the fundamentals of operations and supply chain management.  In doing so, you will understand production and service system inputs, processes, and outputs.  We will gain insight into the role of operations in organizations and appreciation of its challenges. The challenge for operations managers is to produce products and deliver services in a way that is compatible with the business strategy of the company. Typically, these managers struggle to balance needs for lower costs, higher quality, and greater flexibility, while at the same time they are challenged to provide shorter delivery times and to get the orders for each customer out on time. This course will introduce you to the operational challenges that managers encounter and provide a set of tools to aid you in designing and managing processes in the real world. We will discuss quantitative approaches to operations and supply chain management to deal with the inherent uncertainty of the business place.  Using these approaches, you will develop the ability to recognize, formulate, and analyze operations and supply chain management decisions in many different contexts. 
+
+
+### Learning Goals:
+- Increase your conceptual understanding of operations and supply chain modeling and quantitative decision making.
+- Recognize and relate practical issues with operations and supply chain management.
+- Learn the necessary skills to apply these concepts.
+- Recognize, formulate, and analyze operations and supply chain management decisions.
+

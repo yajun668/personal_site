@@ -12,4 +12,8 @@ url_video: ""
 ---
 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+### Course Description
+
+- Introduction to operations research, analytics, and mathematical optimization with an emphasis on topics in linear, integer, and network optimization.
+- Effective model formulation and software solution of strategic, tactical and operational problems encountered in manufacturing, and service industries. 
+- Covers the simplex method, duality theory, sensitivity analysis, branch-and bound, and Dijkstra's algorithm.
