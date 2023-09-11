@@ -20,7 +20,7 @@ main:
     url: '#news'
     weight: 50
   - name: Links
-    url: '#talks'
+    url: links
     weight: 60
   - name: Contact
     url: '#contact'

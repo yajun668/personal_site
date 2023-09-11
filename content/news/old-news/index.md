@@ -8,7 +8,7 @@ draft: false
 featured: false
 projects: []
 title: News Archives
-summary:
+summary: ""
 
 tags:
 - news

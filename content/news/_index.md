@@ -4,6 +4,9 @@ header:
   caption: ""
   image: ""
 title: News
-view: 3
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 ---
-[March 2023] I gave a talk entitled “On Atomic Cliques in Temporal Graphs” at Workshop: PANOPTIC View On Global Optimization at the University of Florida (slides).
