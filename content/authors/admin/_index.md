@@ -63,5 +63,5 @@ title: Yajun Lu
 I am currently an Assistant Professor of Analytics & Operations Management in the Department of Management & Marketing at [Jacksonville State University](https://www.jsu.edu/) (my official website is [here](https://www.jsu.edu/business/mm/faculty/yajun-lu.html)). My research interests are in Network Optimization, Graph-based Data Mining, Data Analytics of Complex Networks with applications in Healthcare, and Social Network Analysis. 
 
 My work has been published in *INFORMS Journal on Computing, Decision Support Systems, International Journal of Logistics Management, Optimization Letters, International Journal of Advanced Manufacturing Technology*, among others. I received my Ph.D. in Industrial Engineering & Management from [Oklahoma State University](https://go.okstate.edu/) under the guidance of [Dr. Baski Balasundaram](https://baski.me/). Prior to joining JSU, I was a Visiting Assistant Professor of Business Analytics in the Department of Analytics and Operations Management at [Bucknell University](https://www.bucknell.edu). Besides my academic positions, I worked as an Industrial Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/), China from March 2011 to July 2014.
-{style="text-align: justify;"}
+{style="text-align: left;"}
 
