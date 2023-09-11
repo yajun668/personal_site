@@ -41,14 +41,54 @@ sections:
       company_url: "https://www.huawei.com/en"
       date_end: "2014-07-15"
       date_start: "2011-03-11"
-      description: Job Duty -- Optimization and Simulation, Data Analytics, Supply Chain Management, Lean Manufacturing
+      description: "Job Duty: Optimization and Simulation, Data Analytics, Supply Chain Management,       Lean Manufacturing"  
       location: Shenzhen, China
       title: Industrial Engineer
     title: Experience
   design:
     columns: "2"
+  id: experience
 
+
+- block: collection
+  id: publication
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    title: Recent Publications
+  design:
+    columns: "2"
+    view: citation  
+
+
+- block: portfolio
+  content:
+    # Choose how many pages you would like to display (0 = all pages)
+    count: 3
+    buttons:
+    - name: All
+      tag: '*'
+    - name: Jacksonville State University
+      tag: JSU
+    - name: Bucknell University
+      tag: Bucknell
+    - name: Oklahoma State University
+      tag: OSU
+    default_button_index: 0
+    filters:
+      folders:
+      - teaching
+    title: Teaching
+  design:
+    columns: "2"
+    view: compact
+    # For Showcase view, flip alternate rows?
+    flip_alt_rows: false
+  id: teaching
   
+
 - block: collection
   content:
     # Choose how many pages you would like to display (0 = all pages)
@@ -72,98 +112,18 @@ sections:
     columns: "2"
     view: compact
   id: posts
-
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Jacksonville State University
-      tag: JSU
-    - name: Bucknell University
-      tag: Bucknell
-    - name: Oklahoma State University
-      tag: OSU
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Teaching
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-  
-  
-- block: collection
-  id: publication
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    title: Recent Publications
-  design:
-    columns: "2"
-    view: citation
     
-    
-    
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
 - block: contact
   content:
+    phone: (256) 782-5398
     address:
-      city: Stanford
+      city: Jacksonville
       country: United States
       country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
-    appointment_url: https://calendly.com
-    autolink: true
-    contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Twitter
-      name: DM Me
-    - icon: skype
-      icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
-    office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
-    subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+      postcode: "36265"
+      region: AL
+      street: 287 Merrill Hall, 700 Pelham Road North
+    email: ylu[at]jsu.edu
     title: Contact
   design:
     columns: "2"
