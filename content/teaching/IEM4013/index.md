@@ -1,5 +1,6 @@
 ---
 date: "2019-03-10T00:00:00Z"
+show_date: false
 title: "IEM 4013: Operations Research"
 summary: Spring 2019
 tags:

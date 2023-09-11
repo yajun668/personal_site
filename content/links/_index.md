@@ -30,6 +30,7 @@ tags:
 * [Free Python Optimization Packages](https://wiki.python.org/moin/PythonForOperationsResearch), among which [SCIP](https://scip.zib.de/) is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP)
 
 ## Advice for new PhD students:
+* [Seven secrets of highly successful research students](/links/Seven_Secrets4PhD.pdf)
 * [Twenty things I wish I’d known when I started my PhD by Dr. Lucy Taylor](https://www.nature.com/articles/d41586-018-07332-x)
 * [Your Research Career is a Long Game by Dr. Casey Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)
 * [10 Tips for New Doctoral Students by Dr. Jamie Hipp](https://www.insidehighered.com/advice/2019/03/19/advice-students-just-beginning-their-phds-opinion)

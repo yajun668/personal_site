@@ -151,9 +151,9 @@ sections:
       street: 287 Merrill Hall, 700 Pelham Road North
     email: ylu[at]jsu.edu
     # Coordinates to display a map - set your map provider in `params.yaml`
-    coordinates:
-      latitude: '33.8286517'
-      longitude: '-85.7656348'
+    # coordinates:
+    #   latitude: '33.8286517'
+    #   longitude: '-85.7656348'
   design:
     columns: "2"
   id: contact

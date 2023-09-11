@@ -1,11 +1,8 @@
 ---
-authors:
-- admin
-categories:
-- News
 date: "2023-09-10T00:00:00Z"
+show_date: false
 title: More News
-
+summary: " "
 tags:
 - News
 ---

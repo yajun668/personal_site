@@ -8,8 +8,16 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: Native 
   font_size: m #  Supported font sizes are xs, s, m, l, xl
+
+# font
+# Minimal (modern)
+# Classic (original Academic v1 style)
+# Rose (traditional serif)
+# Mr Robot (futuristic)
+# Cyberpunk (hacker style)
+# Native: use device fonts for maximum performance
 
 # SEO
 
@@ -58,6 +66,7 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
+
 
 # Site features
 

@@ -1,5 +1,6 @@
 ---
 date: "2019-08-10T00:00:00Z"
+show_date: false
 title: "ANOP 202: Operations Management"
 external_link: ""
 summary: Spring 2020/2021 and Fall 2019/2010

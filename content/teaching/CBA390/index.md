@@ -1,5 +1,6 @@
 ---
 date: "2023-09-10T00:00:00Z"
+show_date: false
 title: "CBA 390: Operations Management"
 external_link: ""
 summary: Fall 2021/2022/2023, Spring 2022/2023, and Summer 2021/2022/2023
