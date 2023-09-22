@@ -3,7 +3,7 @@ date: "2023-09-10T00:00:00Z"
 show_date: false
 title: "BA 550: Supply Chain Analytics (Graduate level)"
 external_link: ""
-summary: Spring 2022/Spring 2023
+summary: Spring 2022/2023
 tags:
 - JSU
 
