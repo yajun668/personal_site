@@ -1,6 +1,6 @@
 ---
 title: Shipment sizing for autonomous trucks of road freight
-abstract: 
+abstract:
 authors:
 - Chun-Miin (Jimmy) Chen
 - admin
