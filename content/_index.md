@@ -41,7 +41,7 @@ sections:
       company_url: "https://www.huawei.com/en"
       date_end: "2014-07-15"
       date_start: "2011-03-11"
-      description: "Job Duty: Optimization and Simulation, Data Analytics, Supply Chain Management,       Lean Manufacturing"  
+      description: "Job Duty: Optimization and Simulation, Data Analytics, Supply Chain Management, Lean Manufacturing"  
       location: Shenzhen, China
       title: Industrial Engineer
     title: Experience
@@ -54,7 +54,7 @@ sections:
   id: publication
   content:
   # Choose how many pages you would like to display (0 = all pages)
-    count: 4
+    count: 6
     filters:
       exclude_featured: true
       folders:
