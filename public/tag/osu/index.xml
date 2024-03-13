@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSU | Yajun Lu</title>
+    <link>https://example.com/tag/osu/</link>
+      <atom:link href="https://example.com/tag/osu/index.xml" rel="self" type="application/rss+xml" />
+    <description>OSU</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>OSU</title>
+      <link>https://example.com/tag/osu/</link>
+    </image>
+    
+    <item>
+      <title>IEM 4013: Operations Research</title>
+      <link>https://example.com/teaching/iem4013/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/iem4013/</guid>
+      <description>&lt;h3 id=&#34;course-description&#34;&gt;Course Description&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to operations research, analytics, and mathematical optimization with an emphasis on topics in linear, integer, and network optimization.&lt;/li&gt;
+&lt;li&gt;Effective model formulation and software solution of strategic, tactical and operational problems encountered in manufacturing, and service industries.&lt;/li&gt;
+&lt;li&gt;Covers the simplex method, duality theory, sensitivity analysis, branch-and bound, and Dijkstra&amp;rsquo;s algorithm.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

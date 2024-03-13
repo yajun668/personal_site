@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JSU | Yajun Lu</title>
+    <link>https://example.com/tag/jsu/</link>
+      <atom:link href="https://example.com/tag/jsu/index.xml" rel="self" type="application/rss+xml" />
+    <description>JSU</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>JSU</title>
+      <link>https://example.com/tag/jsu/</link>
+    </image>
+    
+    <item>
+      <title>BA 545: Quantitative Methods for Business Decision Making (Graduate level)</title>
+      <link>https://example.com/teaching/ba545/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/ba545/</guid>
+      <description>&lt;h3 id=&#34;course-description&#34;&gt;Course Description:&lt;/h3&gt;
+&lt;p&gt;This course provides students with an introduction to analytic and quantitative methods for business decision making. Students are expected to learn not only a bunch of mathematical or statistical tools for making better decisions, but also a logical way of critical thinking in optimally dealing with various business issues. Topics include supply chain analytics, linear programming, transportation and assignment models, network models, and integer progamming. We will focus on business applications of those quantitative models, rather than on the mathematics behind them. We will put more emphases on formulating business problems into proper models, solving the models with the help of computers, and interpreting the results from the managerial point of view.
+Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.&lt;/p&gt;
+&lt;h3 id=&#34;learning-goals&#34;&gt;Learning Goals:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply appropriate analytic, problem-solving, and decision-making skills in business situations, and understand the linkage between operational issues and management concepts (Problem-Solving skills).&lt;/li&gt;
+&lt;li&gt;Analyze and solve production/operations problems and logically interpret, analyze, and summarize the results of information examined (Critical Thinking skills).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BA 550: Supply Chain Analytics (Graduate level)</title>
+      <link>https://example.com/teaching/ba550/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/ba550/</guid>
+      <description>&lt;h3 id=&#34;course-description&#34;&gt;Course Description:&lt;/h3&gt;
+&lt;p&gt;Supply chain analytics is one of the fastest-growing business intelligence application areas. Every day supply chains create a vast amount of data. Every transaction, every operation, every claim is often recorded and saved as data. This course showcases real-life applications of data analytics  in various fields of supply chain management, such as forecasting and inventory management, sales and operations planning, production, transportation, logistics and fulfillment, purchasing and supply management, etc. in manufacturing, trade and service industries. Students will learn real-life examples of how analytics can be applied to these domains of a supply chain to generate a significant social/economic impact. Topics include demand forecasting for new products, supply chain design, transportation analytics, sales and operations analytics in production, inventory management, simulation, and  applying analytics to big data in  supply chain management. Software packages such as Excel/Excel Solver and/or R will be utilized to help in solving models.&lt;/p&gt;
+&lt;h3 id=&#34;student-learning-outcomes&#34;&gt;Student Learning Outcomes:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use several common models of analysis, both quantitative and qualitative, to address problems and challenges within supply chains.&lt;/li&gt;
+&lt;li&gt;Apply predictive models to forecast product demand.&lt;/li&gt;
+&lt;li&gt;Explain the strategic importance of the supply chain and issues and opportunities in the supply chain.&lt;/li&gt;
+&lt;li&gt;Explain the metrics used to evaluate the performance of a supply chain.&lt;/li&gt;
+&lt;li&gt;Explain the different types of inventory, the challenges of inventory management, and the reasons for the existence of inventory.&lt;/li&gt;
+&lt;li&gt;Evaluate inventory turns and days-of-supply for different time periods&lt;/li&gt;
+&lt;li&gt;Explain and use the EOQ model for independent inventory demand.&lt;/li&gt;
+&lt;li&gt;Compute a reorder point and explain safety stock.&lt;/li&gt;
+&lt;li&gt;List the advantages and disadvantages of modeling with simulation.&lt;/li&gt;
+&lt;li&gt;Perform the five steps in a Monte Carlo simulation.&lt;/li&gt;
+&lt;li&gt;Use Excel spreadsheets to create a simulation.&lt;/li&gt;
+&lt;li&gt;Understand why analytics is critical to supply chain management and its financial/economic impact.&lt;/li&gt;
+&lt;li&gt;Develop an ability to  solve supply chain models using Excel/Excel Solver and/or R.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CBA 390: Operations Management</title>
+      <link>https://example.com/teaching/cba390/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/cba390/</guid>
+      <description>&lt;h3 id=&#34;course-description&#34;&gt;Course Description:&lt;/h3&gt;
+&lt;p&gt;Companies worldwide have been restructuring in response to growing competition on a global basis.  The world of business is increasingly recognizing the strategic importance of the production and service functions as sources of major competitive strength.  In this course, we will introduce the fundamentals of operations and supply chain management.  In doing so, you will understand production and service system inputs, processes, and outputs.  We will gain insight into the role of operations in organizations and appreciation of its challenges. The challenge for operations managers is to produce products and deliver services in a way that is compatible with the business strategy of the company. Typically, these managers struggle to balance needs for lower costs, higher quality, and greater flexibility, while at the same time they are challenged to provide shorter delivery times and to get the orders for each customer out on time. This course will introduce you to the operational challenges that managers encounter and provide a set of tools to aid you in designing and managing processes in the real world. We will discuss quantitative approaches to operations and supply chain management to deal with the inherent uncertainty of the business place.  Using these approaches, you will develop the ability to recognize, formulate, and analyze operations and supply chain management decisions in many different contexts.&lt;/p&gt;
+&lt;h3 id=&#34;learning-goals&#34;&gt;Learning Goals:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Increase your conceptual understanding of operations and supply chain modeling and quantitative decision making.&lt;/li&gt;
+&lt;li&gt;Recognize and relate practical issues with operations and supply chain management.&lt;/li&gt;
+&lt;li&gt;Learn the necessary skills to apply these concepts.&lt;/li&gt;
+&lt;li&gt;Recognize, formulate, and analyze operations and supply chain management decisions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

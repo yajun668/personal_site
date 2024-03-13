@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yajun Lu</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring</title>
+      <link>https://example.com/publication/2021-2025/risk-score-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-2025/risk-score-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Conserved Low-Diameter Subgraphs in  Social and Biological Networks</title>
+      <link>https://example.com/publication/2021-2025/cross-graph-kclub-2024/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-2025/cross-graph-kclub-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On atomic cliques in temporal graphs</title>
+      <link>https://example.com/publication/2021-2025/atomic-clique-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-2025/atomic-clique-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On fault-tolerant low-diameter clusters in graphs</title>
+      <link>https://example.com/publication/2021-2025/fault-tolerant-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-2025/fault-tolerant-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering temporal disease networks to assist clinical decision support systems in visual analytics of comorbidity progression</title>
+      <link>https://example.com/publication/2021-2025/comorbidity-progression-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-2025/comorbidity-progression-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shipment sizing for autonomous trucks of road freight</title>
+      <link>https://example.com/publication/2021-2025/shipment-sizing4auto-truck-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-2025/shipment-sizing4auto-truck-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction to: Finding a maximum $k$-club using the $k$-clique formulation and canonical hypercube cuts</title>
+      <link>https://example.com/publication/2016-2020/correction-k-club-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2016-2020/correction-k-club-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A next generation IoT based approach for collaborative manufacturing</title>
+      <link>https://example.com/publication/2016-2020/iise-manufacturing-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2016-2020/iise-manufacturing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Internet of Things (IoT)-based collaborative framework for advanced manufacturing</title>
+      <link>https://example.com/publication/2016-2020/iot-collaborative-framework-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2016-2020/iot-collaborative-framework-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of micro-devices assembly techniques and technology</title>
+      <link>https://example.com/publication/2016-2020/review-mda-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2016-2020/review-mda-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The creation of collaborative cyber physical environments for micro assembly</title>
+      <link>https://example.com/publication/2016-2020/asme-cps-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2016-2020/asme-cps-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Internet of Things (IoT) Based Cyber Physical Framework for Advanced Manufacturing</title>
+      <link>https://example.com/publication/2011-2015/otm-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2011-2015/otm-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path optimization in metal cutting based on common line cutting method</title>
+      <link>https://example.com/publication/2011-2015/metal-cutting-opt-2011/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2011-2015/metal-cutting-opt-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plate cutting NC machining Simulation system based on OpenGL</title>
+      <link>https://example.com/publication/2011-2015/plate-cutting-simulation-2011/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2011-2015/plate-cutting-simulation-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

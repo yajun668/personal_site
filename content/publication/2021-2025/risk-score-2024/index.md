@@ -12,7 +12,7 @@ authors:
 - Abdulaziz Ahmed
 - Dursun Delen
 date: "2024-01-01T00:00:00Z"
-doi:
+doi: 
 featured: false
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +25,14 @@ publishDate: "2023-05-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Major Revision at *Journal of the American Medical Informatics Association*, January 2024"
+publication: "Under Second-round Revision at *Journal of the American Medical Informatics Association*, March 2024"
 
 
-# links:
+#links: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710"
 # - name: ""
 #   url: ""
-
+#url_pdf: /publication/2021-2025/risk-score-2024/Risk_Score_SSRN.pdf
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710'  
 url_poster: ''
 url_project: ''
 url_source: ''
