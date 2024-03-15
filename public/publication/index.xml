@@ -5,7 +5,7 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring</title>
       <link>https://example.com/publication/2021-2025/risk-score-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/2021-2025/risk-score-2024/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Finding Conserved Low-Diameter Subgraphs in  Social and Biological Networks</title>
       <link>https://example.com/publication/2021-2025/cross-graph-kclub-2024/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/2021-2025/cross-graph-kclub-2024/</guid>
       <description></description>
     </item>

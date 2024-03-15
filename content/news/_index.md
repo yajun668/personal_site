@@ -12,7 +12,7 @@ tags:
 
 ### Upcoming Events
 
-- Stay tuned... 
+- [April 25-29, 2024] I will give a talk entitled "A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring" at 34th POMS Conference 2024 in Minneapolis, Minnesota
 
 ### Recent News
 

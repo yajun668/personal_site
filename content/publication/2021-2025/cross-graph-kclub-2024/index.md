@@ -22,7 +22,7 @@ publishDate: "2024-03-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Second-round Review at *Networks*, March 2024"
+publication: "Under 2nd Round Review at *Networks*, March 2024"
 
 
 # links:
