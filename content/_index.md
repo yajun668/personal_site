@@ -54,7 +54,7 @@ sections:
   id: publication
   content:
   # Choose how many pages you would like to display (0 = all pages)
-    count: 6
+    count: 7
     filters:
       exclude_featured: true
       folders:
