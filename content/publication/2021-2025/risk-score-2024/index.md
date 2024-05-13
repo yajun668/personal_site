@@ -11,12 +11,12 @@ authors:
 - Jivan Lamichhane
 - Abdulaziz Ahmed
 - Dursun Delen
-date: "2024-03-11T00:00:00Z"
+date: "2024-05-11T00:00:00Z"
 doi: 
 featured: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-03-11T00:00:00Z"
+publishDate: "2023-05-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,7 @@ publishDate: "2023-03-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under 2nd Round Revision at *Journal of the American Medical Informatics Association*, March 2024"
+publication: "Under 3rd Round Review at *Journal of the American Medical Informatics Association*, May 2024"
 
 
 #links: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710"
@@ -33,6 +33,7 @@ publication: "Under 2nd Round Revision at *Journal of the American Medical Infor
 #   url: ""
 #url_pdf: /publication/2021-2025/risk-score-2024/Risk_Score_SSRN.pdf
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710'  
+url_code: 'https://github.com/yajun668/RiskScoring'
 url_poster: ''
 url_project: ''
 url_source: ''
