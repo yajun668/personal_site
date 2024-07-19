@@ -11,12 +11,12 @@ authors:
 - Jivan Lamichhane
 - Abdulaziz Ahmed
 - Dursun Delen
-date: "2024-05-11T00:00:00Z"
-doi: 
+date: "2024-07-06T00:00:00Z"
+doi: https://doi.org/10.1093/jamia/ocae140
 featured: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-11T00:00:00Z"
+publishDate: "2024-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,14 +25,15 @@ publishDate: "2023-05-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under 3rd Round Review at *Journal of the American Medical Informatics Association*, May 2024"
+publication: "*Journal of the American Medical Informatics Association, 31*(8):1763–1773"
+
 
 
 #links: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710"
 # - name: ""
 #   url: ""
-#url_pdf: /publication/2021-2025/risk-score-2024/Risk_Score_SSRN.pdf
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710'  
+url_pdf: /publication/2021-2025/risk-score-2024/Risk_score_2024.pdf
+#url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710'  
 url_code: 'https://github.com/yajun668/RiskScoring'
 url_poster: ''
 url_project: ''
@@ -40,5 +41,10 @@ url_source: ''
 url_video: ''
 
 
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
 ---
-

@@ -8,12 +8,12 @@ authors:
 - admin
 - Balabhaskar Balasundaram
 - Juan S. Borrero
-date: "2024-03-06T00:00:00Z"
+date: "2024-07-16T00:00:00Z"
 doi:
 featured: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-06T00:00:00Z"
+publishDate: "2024-08-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publishDate: "2024-03-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under 2nd Round Review at *Networks*, March 2024"
+publication: "Accepted at *Networks*, July 2024"
 
 
 # links:
