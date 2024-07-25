@@ -1,5 +1,7 @@
 ---
-bio: My research interests are in Network Optimization, Graph-based Data Mining, Data Analytics of Complex Networks with applications in Healthcare, and Social Network Analysis.
+bio: My research interests are broadly in Business Analytics, Healthcare Analytics and Operations, Graph-based Data Mining, Social Media Analytics, Network Optimization, and Artificial Intelligence.
+
+
 education:
   courses:
   - course: PhD, Industrial Engineering & Management
@@ -65,7 +67,7 @@ title: Yajun Lu
 <!-- more icon website: https://jpswalsh.github.io/academicons/ -->
 <!-- more icon website: https://iphysresearch.github.io/blog/post/writting-markdown/ -->
 
-I am currently an Assistant Professor of Analytics & Operations Management in the Department of Management & Marketing at [Jacksonville State University](https://www.jsu.edu/) (my official website is [here](https://www.jsu.edu/business/mm/faculty/yajun-lu.html)). My research interests are broadly in Business Analytics, Healthcare Analytics and Operations, Graph-based Data
+I am currently an Assistant Professor of Analytics & Operations Management in the Department of Management & Marketing at the AACSB-accredited [College of Business and Industry](https://www.jsu.edu/business/index.html), [Jacksonville State University](https://www.jsu.edu/) (my official website is [here](https://www.jsu.edu/business/mm/faculty/yajun-lu.html)). My research interests are broadly in Business Analytics, Healthcare Analytics and Operations, Graph-based Data
 Mining, Social Media Analytics, Network Optimization, and Artificial Intelligence.
 
 <!--in Network Optimization, Graph-based Data Mining, Data Analytics of Complex Networks with applications in Healthcare, and Social Network Analysis. -->
