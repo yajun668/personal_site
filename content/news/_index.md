@@ -12,9 +12,13 @@ tags:
 
 ### Upcoming Events
 
-- [April 25-29, 2024] I will give a talk entitled "A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring" at 34th POMS Conference 2024 in Minneapolis, Minnesota
+- [October 20-23, 2024] I will give a talk entitled "A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring" at the 2024 INFORMS Annual Meeting in Seattle, Washington
+
+- [November 23-25, 2024] I will give a talk entitled "Network-Driven Airline On-Time Performance Prediction with Dynamic Delay Propagation" at the 2024 DSI Annual Meeting in Phoenix, AZ
 
 ### Recent News
+
+- [April 25-29, 2024] I gave a talk entitled "A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring" at 34th POMS Conference 2024 in Minneapolis, Minnesota
 
 - [November 19, 2023] I gave a talk entitled "Balancing the Scale and the Accuracy of a Risk Index: An Enhanced Automatic Risk Score Generator for Health Condition Prediction" at DSI 2023 Annual Conference in Atlanta, Georgia ([link](https://convention2.allacademic.com/one/dsi/dsi23/index.php?cmd=Online+Program+View+Session&selected_session_id=2099713&PHPSESSID=23v4behj8b1kp2lrvohql3g7es)).
 
