@@ -9,7 +9,7 @@ authors:
 - Balabhaskar Balasundaram
 - Juan S. Borrero
 date: "2024-07-16T00:00:00Z"
-doi:
+doi: https://doi.org/10.1002/net.22246
 featured: false
 
 # Schedule page publish date (NOT publication's date).
@@ -22,13 +22,14 @@ publishDate: "2024-07-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted at *Networks*, July 2024"
+publication: "*Networks*, August 2024"
 
 
 # links:
 # - name: ""
 #   url: ""
-
+url_pdf: /publication/2021-2025/cross-graph-kclub-2024/cross-graph-clubs-2024.pdf
+url_code: 'https://github.com/haonap/crossGraphKclub'
 url_poster: ''
 url_project: ''
 url_source: ''

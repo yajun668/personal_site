@@ -24,7 +24,7 @@ publishDate: "2024-04-12T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted, July 2024"
+publication: "Under revision, September 2024"
 
 
 # links:

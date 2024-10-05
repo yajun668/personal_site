@@ -18,12 +18,12 @@ email: "ylu@jsu.edu"
 first_name: Yajun
 highlight_name: true
 interests:
-- Network Optimization
-- Graph-based Data Mining
 - Business Analytics
 - Healthcare Analytics & Operations
-- Social Network Analysis
 - Artificial Intelligence
+- Social Media Analytics
+- Graph-based Data Mining
+- Network Optimization
 last_name: Lu
 organizations:
 - name: Jacksonville State University
