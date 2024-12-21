@@ -12,11 +12,13 @@ tags:
 
 ### Upcoming Events
 
-- [October 20-23, 2024] I will give a talk entitled "A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring" at the 2024 INFORMS Annual Meeting in Seattle, Washington
-
-- [November 23-25, 2024] I will give a talk entitled "Network-Driven Airline On-Time Performance Prediction with Dynamic Delay Propagation" at the 2024 DSI Annual Meeting in Phoenix, AZ
+- [March 14-16, 2025] I gave a talk entitled "Induced conflict formulations for second-order k-clubs" at the 18th INFORMS Computing Society Conference, Toronto, Canada
 
 ### Recent News
+
+- [November 23-25, 2024] I gave a talk entitled "Network-Driven Airline On-Time Performance Prediction with Dynamic Delay Propagation" at the 2024 DSI Annual Meeting in Phoenix, AZ
+
+- [October 20-23, 2024] I gave a talk entitled "A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring" at the 2024 INFORMS Annual Meeting in Seattle, Washington
 
 - [April 25-29, 2024] I gave a talk entitled "A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring" at 34th POMS Conference 2024 in Minneapolis, Minnesota
 

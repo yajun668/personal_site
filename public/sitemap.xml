@@ -3,27 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/publication-type/2/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2021-2025/mortality_rate_clique_2024/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/2021-2025/risk-score-2024/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/working_paper/flight_delay_prediction-2024/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/working_paper/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/working_paper/mortality_rate_clique_2024/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/2021-2025/cross-graph-kclub-2024/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/2021-2025/risk-score-2024/</loc>
-    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/teaching/ba545/</loc>
@@ -80,6 +88,10 @@
   </url><url>
     <loc>https://example.com/links/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/teaching/cba210/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/2021-2025/atomic-clique-2023/</loc>
