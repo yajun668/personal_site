@@ -13,26 +13,18 @@
     </image>
     
     <item>
-      <title>A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring</title>
-      <link>https://example.com/publication/2021-2025/risk-score-2024/</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2021-2025/risk-score-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring</title>
+      <title>Flight Delay Dynamics: Unraveling the Impact of Airport-Network-Spilled Propagation on Airline On-Time Performance</title>
       <link>https://example.com/working_paper/flight_delay_prediction-2024/</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/working_paper/flight_delay_prediction-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Identifying Most Lethal Cliques in Disease Comorbidity Graphs</title>
-      <link>https://example.com/working_paper/mortality_rate_clique_2024/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_paper/mortality_rate_clique_2024/</guid>
+      <title>A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring</title>
+      <link>https://example.com/publication/2021-2025/risk-score-2024/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-2025/risk-score-2024/</guid>
       <description></description>
     </item>
     
@@ -412,7 +404,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-913762458&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-973825164&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -422,7 +414,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-913762458&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-973825164&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

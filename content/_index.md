@@ -48,6 +48,8 @@ sections:
   design:
     columns: "2"
   id: experience
+  
+  
 
 
 - block: collection
@@ -64,7 +66,6 @@ sections:
     columns: "2"
     view: citation  
 
-
 - block: collection
   id: working_paper
   content:
@@ -74,10 +75,11 @@ sections:
       exclude_featured: true
       folders:
       - working_paper
-    title: Selected Working Papers  #under Review/Revision
+    title: Selected Working Papers
   design:
     columns: "2"
     view: citation
+
 
 
 - block: portfolio

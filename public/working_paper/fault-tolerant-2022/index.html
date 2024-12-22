@@ -307,12 +307,12 @@
 
   
 
-<meta name="description" content="Fall 2021/2022/2023 and Summer 2021/2022/2024" />
+<meta name="description" content="Cliques and their generalizations are frequently used to model ``tightly knit&#39;&#39; clusters in graphs and identifying such clusters is a popular technique used in graph-based data mining. One such model is the $s$-club, which is a vertex subset that induces a subgraph of diameter at most $s$. This model has found use in a variety of fields because  low-diameter clusters have practical significance  in many applications. As this property is not hereditary on vertex-induced subgraphs, the diameter of a subgraph could increase upon the removal of some vertices and  the subgraph could even become disconnected. For example, star graphs have  diameter  two but can be disconnected by removing the central vertex. The pursuit of a fault-tolerant extension of the $s$-club model has  spawned  two variants that we study in this article: robust $s$-clubs  and hereditary $s$-clubs. We analyze the complexity of the  verification and optimization problems associated with these variants. Then, we propose cut-like integer programming formulations for both variants whenever possible and investigate the separation complexity of the cut-like constraints.  We demonstrate through our extensive computational experiments that the algorithmic ideas we introduce  enable us to solve the problems to optimality on benchmark instances with several thousand vertices. This work lays the foundations for  effective mathematical programming approaches for finding  fault-tolerant $s$-clubs in large-scale networks." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://example.com/teaching/ba545/" />
-<link rel="canonical" href="https://example.com/teaching/ba545/" />
+<link rel="alternate" hreflang="en-us" href="https://example.com/working_paper/fault-tolerant-2022/" />
+<link rel="canonical" href="https://example.com/working_paper/fault-tolerant-2022/" />
 
 
 
@@ -348,18 +348,18 @@
   <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Yajun Lu" />
-<meta property="og:url" content="https://example.com/teaching/ba545/" />
-<meta property="og:title" content="BA 545: Quantitative Methods for Business Decision Making (Graduate level) | Yajun Lu" />
-<meta property="og:description" content="Fall 2021/2022/2023 and Summer 2021/2022/2024" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://example.com/working_paper/fault-tolerant-2022/" />
+<meta property="og:title" content="On fault-tolerant low-diameter clusters in graphs | Yajun Lu" />
+<meta property="og:description" content="Cliques and their generalizations are frequently used to model ``tightly knit&#39;&#39; clusters in graphs and identifying such clusters is a popular technique used in graph-based data mining. One such model is the $s$-club, which is a vertex subset that induces a subgraph of diameter at most $s$. This model has found use in a variety of fields because  low-diameter clusters have practical significance  in many applications. As this property is not hereditary on vertex-induced subgraphs, the diameter of a subgraph could increase upon the removal of some vertices and  the subgraph could even become disconnected. For example, star graphs have  diameter  two but can be disconnected by removing the central vertex. The pursuit of a fault-tolerant extension of the $s$-club model has  spawned  two variants that we study in this article: robust $s$-clubs  and hereditary $s$-clubs. We analyze the complexity of the  verification and optimization problems associated with these variants. Then, we propose cut-like integer programming formulations for both variants whenever possible and investigate the separation complexity of the cut-like constraints.  We demonstrate through our extensive computational experiments that the algorithmic ideas we introduce  enable us to solve the problems to optimality on benchmark instances with several thousand vertices. This work lays the foundations for  effective mathematical programming approaches for finding  fault-tolerant $s$-clubs in large-scale networks." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2023-09-10T00:00:00&#43;00:00"
+      content="2023-05-07T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-09-10T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-11-01T00:00:00&#43;00:00">
   
 
 
@@ -384,7 +384,7 @@
 
 
   
-  <title>BA 545: Quantitative Methods for Business Decision Making (Graduate level) | Yajun Lu</title>
+  <title>On fault-tolerant low-diameter clusters in graphs | Yajun Lu</title>
 
   
   
@@ -404,7 +404,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e6949f75afe799cd00db5b0d1b71ae80" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b4358e1986539e13924448d5952bea90" >
 
   
   
@@ -869,7 +869,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>BA 545: Quantitative Methods for Business Decision Making (Graduate level)</h1>
+  <h1>On fault-tolerant low-diameter clusters in graphs</h1>
 
   
 
@@ -881,7 +881,28 @@
 
   
   
+  
+  
+  <div>
+    
 
+  <span class="author-highlighted">
+      Yajun Lu</span>, <span >
+      Hosseinali Salemi</span>, <span >
+      Balabhaskar Balasundaram</span>, <span >
+      Austin Buchanan</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 1, 2022
+  </span>
   
 
   
@@ -902,6 +923,70 @@
 
 
 
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/publication/2021-2025/fault-tolerant-2022/On-fault-tolerant-low-diameter-clusters-in-graphs.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/working_paper/fault-tolerant-2022/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/yajun668/FaultTolerantClubs" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/publication/2021-2025/fault-tolerant-2022/Fault-tolerant-low-diameter-clusters_Lu.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1287/ijoc.2022.1231" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
 
 
   
@@ -912,15 +997,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h3 id="course-description">Course Description:</h3>
-<p>This course provides students with an introduction to analytic and quantitative methods for business decision making. Students are expected to learn not only a bunch of mathematical or statistical tools for making better decisions, but also a logical way of critical thinking in optimally dealing with various business issues. Topics include supply chain analytics, linear programming, transportation and assignment models, network models, and integer progamming. We will focus on business applications of those quantitative models, rather than on the mathematics behind them. We will put more emphases on formulating business problems into proper models, solving the models with the help of computers, and interpreting the results from the managerial point of view.
-Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
-<h3 id="learning-goals">Learning Goals:</h3>
-<ul>
-<li>Apply appropriate analytic, problem-solving, and decision-making skills in business situations, and understand the linkage between operational issues and management concepts (Problem-Solving skills).</li>
-<li>Analyze and solve production/operations problems and logically interpret, analyze, and summarize the results of information examined (Critical Thinking skills).</li>
-</ul>
-
+      
     </div>
 
     
@@ -928,12 +1005,6 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/jsu/">JSU</a>
-  
-</div>
 
 
 
@@ -952,7 +1023,7 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fteaching%2Fba545%2F&amp;text=BA&#43;545%3A&#43;Quantitative&#43;Methods&#43;for&#43;Business&#43;Decision&#43;Making&#43;%28Graduate&#43;level%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fworking_paper%2Ffault-tolerant-2022%2F&amp;text=On&#43;fault-tolerant&#43;low-diameter&#43;clusters&#43;in&#43;graphs" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -969,7 +1040,7 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fteaching%2Fba545%2F&amp;t=BA&#43;545%3A&#43;Quantitative&#43;Methods&#43;for&#43;Business&#43;Decision&#43;Making&#43;%28Graduate&#43;level%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fworking_paper%2Ffault-tolerant-2022%2F&amp;t=On&#43;fault-tolerant&#43;low-diameter&#43;clusters&#43;in&#43;graphs" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -988,7 +1059,7 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
         
       
       <li>
-        <a href="mailto:?subject=BA%20545%3A%20Quantitative%20Methods%20for%20Business%20Decision%20Making%20%28Graduate%20level%29&amp;body=https%3A%2F%2Fexample.com%2Fteaching%2Fba545%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=On%20fault-tolerant%20low-diameter%20clusters%20in%20graphs&amp;body=https%3A%2F%2Fexample.com%2Fworking_paper%2Ffault-tolerant-2022%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1005,7 +1076,7 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fteaching%2Fba545%2F&amp;title=BA&#43;545%3A&#43;Quantitative&#43;Methods&#43;for&#43;Business&#43;Decision&#43;Making&#43;%28Graduate&#43;level%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fworking_paper%2Ffault-tolerant-2022%2F&amp;title=On&#43;fault-tolerant&#43;low-diameter&#43;clusters&#43;in&#43;graphs" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1022,7 +1093,7 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
       
       
       <li>
-        <a href="whatsapp://send?text=BA&#43;545%3A&#43;Quantitative&#43;Methods&#43;for&#43;Business&#43;Decision&#43;Making&#43;%28Graduate&#43;level%29%20https%3A%2F%2Fexample.com%2Fteaching%2Fba545%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=On&#43;fault-tolerant&#43;low-diameter&#43;clusters&#43;in&#43;graphs%20https%3A%2F%2Fexample.com%2Fworking_paper%2Ffault-tolerant-2022%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1039,7 +1110,7 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fteaching%2Fba545%2F&amp;title=BA&#43;545%3A&#43;Quantitative&#43;Methods&#43;for&#43;Business&#43;Decision&#43;Making&#43;%28Graduate&#43;level%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fworking_paper%2Ffault-tolerant-2022%2F&amp;title=On&#43;fault-tolerant&#43;low-diameter&#43;clusters&#43;in&#43;graphs" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1059,6 +1130,7 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
 
   
   
+    
 
 
 
@@ -1215,6 +1287,25 @@ Microsoft EXCEL/EXCEL-Solver will be used to help in solving models.</p>
   </div>
 
 
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
