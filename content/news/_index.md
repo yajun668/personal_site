@@ -12,7 +12,7 @@ tags:
 
 ### Upcoming Events
 
-- [March 14-16, 2025] I gave a talk entitled "Induced conflict formulations for second-order k-clubs" at the 18th INFORMS Computing Society Conference, Toronto, Canada
+- [March 14-16, 2025] I will give a talk entitled "Induced conflict formulations for second-order k-clubs" at the 18th INFORMS Computing Society Conference, Toronto, Canada
 
 ### Recent News
 
